@@ -1,4 +1,4 @@
-Currently working at Irisa Lab in Computer Vision and pursuing an undergraduate degree.
+Master Student at Sorbonne University
 
 Latest project: Yolo Circle 
 updated !
